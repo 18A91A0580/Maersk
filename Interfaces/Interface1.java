@@ -6,6 +6,7 @@ public interface Interface1 {
     void Method1();
     // It can have static methods
     static void staticMethod(){
+
         System.out.println("Static method");
     }
     // It can have default methods

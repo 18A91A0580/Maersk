@@ -46,6 +46,5 @@ public class arrayList {
         for(Object e:st){
             System.out.print(e+" ");
         }
-
     }
 }

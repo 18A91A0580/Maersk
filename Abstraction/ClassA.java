@@ -9,5 +9,4 @@ public abstract class ClassA {
     void Method2(){
         System.out.println("Non-abstract method");
     }
-
 }
